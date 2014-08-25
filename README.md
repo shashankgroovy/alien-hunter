@@ -10,8 +10,8 @@ Ideas
 * Make a machine gun or a Ray gun.
 * Boss Mode maybe?
 
-
-Contributing
+Wanna Help?
 ------------
 
-Contributing is easy just send us a Pull request, we Love them!!
+* Programmers? Pull requests are amazing.
+* Can you draw? Then make some cool assets like new aliens, weapons and level backgrounds

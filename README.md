@@ -3,6 +3,12 @@ Alien-hunter
 
 A simple shooting game using pygame.
 
+Requirements
+------------
+
+* python 2.7
+* Pygame 1.9.1 for Python 2.7
+
 Ideas
 -----
 
